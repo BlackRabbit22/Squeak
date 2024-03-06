@@ -4,4 +4,4 @@
   Squeak
 </h1>
 
-A mockup website of a lightweight social media website called Squeak.
+A mockup social media website named **Squeak**.
